@@ -16,6 +16,6 @@ You also must install NodeJS.
 
 ## Running
 
-To run the bot run
+To run the bot for testing use the following command on the command line: `node lmaobot.js`
 
-`node lmaobot.js`
+To run the bot windowless, in the background, you can use the `start.ps1` PowerShell script.
